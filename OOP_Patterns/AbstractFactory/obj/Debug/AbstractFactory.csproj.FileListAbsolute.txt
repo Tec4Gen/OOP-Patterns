@@ -1,0 +1,7 @@
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
