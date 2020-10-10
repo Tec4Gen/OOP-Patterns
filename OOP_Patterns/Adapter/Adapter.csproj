@@ -43,11 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapters\AdapterElf.cs" />
+    <Compile Include="Entityes\Elf.cs" />
+    <Compile Include="Entityes\Gnome.cs" />
+    <Compile Include="Entityes\Orc.cs" />
+    <Compile Include="Interface\IAttack.cs" />
+    <Compile Include="Interface\IMoving.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

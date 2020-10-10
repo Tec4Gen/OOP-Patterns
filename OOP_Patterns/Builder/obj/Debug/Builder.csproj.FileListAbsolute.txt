@@ -1,0 +1,7 @@
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\bin\Debug\Builder.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\bin\Debug\Builder.pdb
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\obj\Debug\Builder.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Builder\obj\Debug\Builder.pdb

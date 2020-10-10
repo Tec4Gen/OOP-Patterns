@@ -5,3 +5,10 @@ D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.cspr
 D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
 D:\MyGit\OOPPatterns\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

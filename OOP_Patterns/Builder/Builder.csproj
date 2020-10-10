@@ -43,11 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Builder\Baker.cs" />
+    <Compile Include="Builder\BuilderBread.cs" />
+    <Compile Include="Builder\BuilderBreadCake.cs" />
+    <Compile Include="Entitiyes\Bread.cs" />
+    <Compile Include="Entitiyes\Corn.cs" />
+    <Compile Include="Entitiyes\Cream.cs" />
+    <Compile Include="Entitiyes\Flour.cs" />
+    <Compile Include="Entitiyes\Salt.cs" />
+    <Compile Include="Interface\IBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
