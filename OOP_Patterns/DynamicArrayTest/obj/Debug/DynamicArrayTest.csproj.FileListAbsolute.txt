@@ -1,0 +1,10 @@
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\bin\Debug\DynamicArrayTest.exe.config
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\bin\Debug\DynamicArrayTest.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\bin\Debug\DynamicArrayTest.pdb
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\bin\Debug\MyDynamicArray.dll
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\bin\Debug\MyDynamicArray.pdb
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\obj\Debug\DynamicArrayTest.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\obj\Debug\DynamicArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\obj\Debug\DynamicArrayTest.csproj.CopyComplete
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\obj\Debug\DynamicArrayTest.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\DynamicArrayTest\obj\Debug\DynamicArrayTest.pdb

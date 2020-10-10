@@ -1,0 +1,7 @@
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\Neo\Desktop\MyGit\Pattern\OOP_Patterns\Facade\obj\Debug\Facade.pdb
