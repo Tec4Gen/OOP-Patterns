@@ -29,7 +29,7 @@ namespace Flyweight
 
 
 
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }

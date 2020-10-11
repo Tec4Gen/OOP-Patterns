@@ -1,0 +1,6 @@
+C:\Users\Neo\source\repos\BynarySerialization\Entities\bin\Debug\Entities.dll
+C:\Users\Neo\source\repos\BynarySerialization\Entities\bin\Debug\Entities.pdb
+C:\Users\Neo\source\repos\BynarySerialization\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\BynarySerialization\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\BynarySerialization\Entities\obj\Debug\Entities.dll
+C:\Users\Neo\source\repos\BynarySerialization\Entities\obj\Debug\Entities.pdb

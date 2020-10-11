@@ -1,0 +1,10 @@
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\bin\Debug\XmlSerialization.exe.config
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\bin\Debug\XmlSerialization.exe
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\bin\Debug\XmlSerialization.pdb
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\bin\Debug\Entities.dll
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\bin\Debug\Entities.pdb
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\obj\Debug\XmlSerialization.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.CopyComplete
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\obj\Debug\XmlSerialization.exe
+C:\Users\Neo\source\repos\BynarySerialization\XmlSerialization\obj\Debug\XmlSerialization.pdb
