@@ -1,0 +1,7 @@
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\bin\Debug\Flyweight.exe.config
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\bin\Debug\Flyweight.exe
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\bin\Debug\Flyweight.pdb
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\obj\Debug\Flyweight.exe
+D:\MyGit\OOPPatterns\OOP_Patterns\Flyweight\obj\Debug\Flyweight.pdb

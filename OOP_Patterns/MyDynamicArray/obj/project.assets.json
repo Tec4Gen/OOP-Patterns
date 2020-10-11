@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Neo\\Desktop\\MyGit\\Pattern\\OOP_Patterns\\MyDynamicArray\\MyDynamicArray.csproj",
+      "projectUniqueName": "D:\\MyGit\\OOPPatterns\\OOP_Patterns\\MyDynamicArray\\MyDynamicArray.csproj",
       "projectName": "MyDynamicArray",
-      "projectPath": "C:\\Users\\Neo\\Desktop\\MyGit\\Pattern\\OOP_Patterns\\MyDynamicArray\\MyDynamicArray.csproj",
+      "projectPath": "D:\\MyGit\\OOPPatterns\\OOP_Patterns\\MyDynamicArray\\MyDynamicArray.csproj",
       "packagesPath": "C:\\Users\\Neo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neo\\Desktop\\MyGit\\Pattern\\OOP_Patterns\\MyDynamicArray\\obj\\",
+      "outputPath": "D:\\MyGit\\OOPPatterns\\OOP_Patterns\\MyDynamicArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Neo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,7 +233,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

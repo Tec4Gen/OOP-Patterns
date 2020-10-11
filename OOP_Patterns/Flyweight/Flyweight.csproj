@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DADA7C36-2538-4E3A-8463-CEA2D3F3A672}</ProjectGuid>
+    <ProjectGuid>{D1B7B1FA-3489-46EA-9DF4-7BEE4E131516}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Builder</RootNamespace>
-    <AssemblyName>Builder</AssemblyName>
+    <RootNamespace>Flyweight</RootNamespace>
+    <AssemblyName>Flyweight</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,21 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builder\Baker.cs" />
-    <Compile Include="Builder\BuilderBread.cs" />
-    <Compile Include="Builder\BuilderBreadCake.cs" />
-    <Compile Include="Entities\Bread.cs" />
-    <Compile Include="Entities\Corn.cs" />
-    <Compile Include="Entities\Cream.cs" />
-    <Compile Include="Entities\Flour.cs" />
-    <Compile Include="Entities\Salt.cs" />
-    <Compile Include="Interface\IBuilder.cs" />
+    <Compile Include="Abstract\AbstractRocket.cs" />
+    <Compile Include="Entities\SlowRocket.cs" />
+    <Compile Include="Entities\FasterRocket.cs" />
+    <Compile Include="Factory\FactoryRocket.cs" />
+    <Compile Include="Interface\IFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
